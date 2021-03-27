@@ -235,7 +235,36 @@ body > footer > ul:nth-child(1){
 #imf{
     font-family: 'Berkshire Swash', cursive;
     margin-top: 20px;
-    height: 400px;
-    width: 1000px;
-    margin-left: 166px;
+    margin-left: 37px;
+    width: 1271px;
+    height: 418px;
+ }
+ body > main > ul > li > img{
+    border-radius: 1000px;
+    border-top-width: 164px;
+    margin-top: 13px;
+    font-family: 'Berkshire Swash', cursive;
+    list-style: none;
+    width: 400px;
+    margin-right: 28.3437px;
+    height: 407px;
+ }body > main > ul > li:nth-child(1) > img{
+    border-radius: 1000px;
+    border-top-width: 164px;
+    margin-top: 13px;
+    font-family: 'Berkshire Swash', cursive;
+    list-style: none;
+    width: 400px;
+    margin-right: 28.3437px;
+    height: 407px;
+ }
+ body > main > ul > li:nth-child(3) > img{
+    border-radius: 1000px;
+    border-top-width: 164px;
+    margin-top: 13px;
+    font-family: 'Berkshire Swash', cursive;
+    list-style: none;
+    width: 400px;
+    margin-right: 28.3437px;
+    height: 408px;
  }
