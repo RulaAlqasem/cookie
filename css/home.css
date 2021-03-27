@@ -1,0 +1,241 @@
+body{
+    font-family: 'Berkshire Swash', cursive;
+}
+header{
+    font-family: 'Berkshire Swash', cursive;
+    background-color: gray;
+    margin-bottom: 0px;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    background-image: url('https://t4.ftcdn.net/jpg/02/37/57/69/240_F_237576955_dWzIaIJDBWJDAldj0b9N6Mzur0zggnZA.jpg');
+    background-size: 1333px 400px;
+    background-position-y: -290px;
+    border-top-width: 0px;
+    padding-top: 11px;
+}
+header h1{
+    text-align: center;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+}
+body > main > ul > li:nth-child(1) > img{
+    font-family: 'Berkshire Swash', cursive;
+    list-style: none;
+    width: 400px;
+    margin-right: 28.3437px;
+    height: 266px;
+}
+body > header > h1{
+    font-family: 'Berkshire Swash', cursive;
+    text-align: center;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    width: 400px;
+    margin-left: 447px;
+    height: 56px;
+    color: #ddffff;
+}
+#nav2 > img{
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 0px;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 2px;
+    margin-top: 14px;
+    margin-left: 358px;
+}
+.navlua ul {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    display:inline-block;
+    vertical-align:top;
+    margin-top: 55px;
+  }
+  .navlua ul li{
+      display: inline;
+    margin-top: 110mm;  }
+header .navlua ul li a{
+    text-decoration:none;
+    margin-left: 40px;
+    color: #000;
+    
+}
+header img{
+    margin-top: 30px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    width: 70px;
+   width: 200px;
+   margin-left: 40px;
+}
+
+.nav2{
+    margin-left: 20px;
+}
+#nav1{
+
+    text-decoration:none;
+    margin-left: 0px;
+}
+
+#imf{
+    
+    margin-top: 20px;
+    height: 400px;
+    margin-left: 40px;
+
+    width: 95%;
+}
+main ul{
+list-style: none;
+}
+main ul li{
+display: inline;
+}
+main ul li img{
+width: 400px;
+margin-right: 28.3437px;
+}
+#right{
+    font-family: 'Berkshire Swash', cursive;
+    float: right;
+    width: 50%;
+    margin-top: 22px;
+    margin-right: 28px;
+    margin-bottom: 20px;
+    height: 537px;
+}
+main div img{
+    font-family: 'Berkshire Swash', cursive;
+    margin-left: 40px;
+    margin-right: 10px;
+    float: left;
+    width: 550px;
+    margin-bottom: 15px;
+    margin-top: 51px;
+}
+button{
+display: block;
+width: 116px;
+height: 36px;
+margin-left: 20px;
+color: white;
+background-color: #fa8fbf;}
+main section p{
+
+max-height: 330px;
+
+
+}
+header .navlua ul li a {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 40px;
+    color: #ddffff;
+}
+body{
+    background-image: url('https://data.whicdn.com/images/309155297/original.jpg') ;
+    /* background-size:200px 300px;  */
+    background-size:100%;
+    background-repeat: round;
+    background-color:#f3e744;
+    
+}
+#right > p{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    max-height: 330px;
+    width: 661px;
+    margin-left: 15px;
+    text-align:unset;
+    color: #58073c;
+    background-color: rgba(224, 255, 255, 0.384);
+}
+
+#right h1{
+    font-size: 30px;
+font-weight: bolder;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: #771615;
+}
+button:hover {
+background-color:rgb(170, 87, 87);
+animation-duration: 350ms;
+}
+footer {
+    text-align: center;
+clear: both;
+background-color: gray;
+height: 250px;
+
+background-image: url('https://t4.ftcdn.net/jpg/02/37/57/69/240_F_237576955_dWzIaIJDBWJDAldj0b9N6Mzur0zggnZA.jpg') ;
+background-size: 1333px 400px;
+background-position-y:-100px;
+}
+footer h4{
+    margin-top: 50px;
+    display: inline;}
+    
+footer ul{
+    list-style: none;
+    text-align: center;
+    list-style: none;
+    margin-top: 0px;
+    padding-top: 100px;
+    color: rgb(131, 79, 70);
+    font-size: 20px;
+}
+footer ul li{
+    direction: none;
+    display: inline;
+    margin-right: 20px;
+    
+}
+footer ul li a{
+    direction: none;
+    text-decoration: none;
+    color: rgb(78, 50, 46);
+  
+}
+body > footer > ul:nth-child(2){
+    
+    text-align: center;
+    list-style: none;
+    margin-top: 0px;
+    color: rgb(131, 79, 70);
+    font-size: 20px;
+    padding-top: 0px;
+}
+ label{
+    font-family: 'Berkshire Swash', cursive;
+    margin-left: 50px;
+}
+#storeForm > fieldset > label{
+    font-family: 'Berkshire Swash', cursive;
+    padding-left: 50px;
+}
+body > footer > ul:nth-child(1){
+    font-family: 'Berkshire Swash', cursive;
+    text-align: center;
+    list-style: none;
+    color: rgb(131, 79, 70);
+    font-size: 20px;
+    margin-top: 0px;
+    padding-top: 70px;
+}
+#imf{
+    font-family: 'Berkshire Swash', cursive;
+    margin-top: 20px;
+    height: 400px;
+    width: 1000px;
+    margin-left: 166px;
+ }
